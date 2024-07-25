@@ -87,4 +87,4 @@
 - Server will be running on http://0.0.0.0:3332
 
 ## DISCLAIMER
-All the responses shown here are valid only if you send a valid request like the one shown in the examples. If it is invalid the server will return a code 400 (Bad request)# devroomtodo
+All the responses shown here are valid only if you send a valid request like the one shown in the examples. If it is invalid the server will return a code 400 (Bad request)
